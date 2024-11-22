@@ -1,0 +1,51 @@
+body {
+  background-image: url('tmave\ cervena.jpg'); 
+  color: white; 
+  font-family: Arial, sans-serif;
+}
+
+.nadpis1 {
+  font-size: 3em;
+  text-align: center;
+  color: #FFFFFF; 
+}
+
+.nadpis2 {
+  font-size: 2.5em;
+  color: #FFD700; 
+}
+
+.nadpis3 {
+  font-size: 2em;
+  color: #00BFFF; 
+}
+
+.rimsky-seznam {
+  list-style-type: upper-roman; 
+}
+
+.barva1 {
+  color: #FF4500; 
+}
+
+.barva2 {
+  color: #32CD32; 
+}
+
+.barva3 {
+  color: #FFD700; 
+}
+
+.tvary-seznam {
+  list-style-type: none; 
+}
+
+.kolo {
+  background: url(dark\ red\ 132.jpg) no-repeat left center;
+  padding-left: 20px;
+}
+
+.ctverec {
+  background: url(dark\ red\ 132.jpg) no-repeat left center;
+  padding-left: 20px;
+}
